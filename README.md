@@ -2,7 +2,7 @@
 
 #### PDF - Full practice with images: Práctica completa con explicaciones, gráficos y salidas de R
 #### Code: Únicamente el código en R
-#### Data: creditcard.csv
+#### Data: https://drive.google.com/file/d/1CTAlmlREFRaEN3NoHHitewpqAtWS5cVQ/view
 
 ___
 
