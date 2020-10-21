@@ -1,8 +1,8 @@
 # Credit Card Fraud
 
-#### PDF - Full practice with images: Práctica completa con explicaciones, gráficos y salidas de R
-#### Code: Únicamente el código en R
-#### Data: https://drive.google.com/file/d/1CTAlmlREFRaEN3NoHHitewpqAtWS5cVQ/view
+##### PDF: Práctica completa con explicaciones, gráficos y salidas de R
+##### Code: Únicamente el código en R
+##### Data: https://drive.google.com/file/d/1CTAlmlREFRaEN3NoHHitewpqAtWS5cVQ/view
 
 ___
 
